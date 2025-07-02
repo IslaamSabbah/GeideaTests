@@ -43,7 +43,7 @@ GeideaTests/
 1. Install the latest .NET SDK from https://dotnet.microsoft.com/download
 2. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/GeideaTests.git
+    git clone https://github.com/IslaamSabbah/GeideaTests.git
     cd GeideaTests
 3. Restore dependencies:
     dotnet restore
